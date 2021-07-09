@@ -1,8 +1,8 @@
 package test;
 
-import Structure.NTree;
-import Structure.Node;
-import Structure.NTreeNode;
+import DataStructure.NTree;
+import DataStructure.NTreeNode;
+import DataStructure.Node;
 
 public class TestNTree {
 	
